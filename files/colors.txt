@@ -1,0 +1,13 @@
+-blueish:
+	#428DC6
+	#428DC6
+	#1D838A
+-purplish
+	#231C63
+	#8348BB
+-greenish
+	#48BB83
+	#6E9682
+	#17201C
+-gray
+	#17201C
